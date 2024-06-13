@@ -23,8 +23,13 @@ The backend provides a RESTful API for managing properties and users, while the 
 - **Authentication**: JWT, Google OAuth
 - **File Storage**: Firebase Storage
 
-  ## UI of Website
-  
+
+## UI of Website
+  ![Screenshot 2024-06-13 171221](https://github.com/Darshanjasani73/MERN-RealEstate/assets/167104440/7dc3d21c-2a5b-4d2c-86fa-c17d0ecf62a5)
+  ![Screenshot 2024-06-13 171440](https://github.com/Darshanjasani73/MERN-RealEstate/assets/167104440/9bb36775-4efb-4e00-89ed-4c0fc5c044db)
+  ![Screenshot 2024-06-13 171421](https://github.com/Darshanjasani73/MERN-RealEstate/assets/167104440/2ab09a7e-1be2-4e8c-9e73-3624aa6fde36)
+  ![Screenshot 2024-06-13 171132](https://github.com/Darshanjasani73/MERN-RealEstate/assets/167104440/8eccefd2-6d22-4ed2-813c-de9774e88be4)
+
 
 
 ## Contributing
