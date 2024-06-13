@@ -10,8 +10,8 @@ The backend provides a RESTful API for managing properties and users, while the 
 
 - User Authentication (Sign up, Sign in, Sign out)
 - Search properties by location, price, type and Amenities.
-- View property details
-- Add, edit, and delete property listings
+- View property details.
+- User can Add, edit, and delete property listings with image of property.
 - Share favorite properties via link
 - Responsive design
 
@@ -30,3 +30,7 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 ## License
 
 This project is licensed under the MIT License. See the [MIT LICENSE](LICENSE) file for more details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out ME at djasani93@gmail.com.
