@@ -23,6 +23,10 @@ The backend provides a RESTful API for managing properties and users, while the 
 - **Authentication**: JWT, Google OAuth
 - **File Storage**: Firebase Storage
 
+  ## UI of Website
+  
+
+
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
