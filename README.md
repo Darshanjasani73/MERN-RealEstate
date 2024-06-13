@@ -17,11 +17,11 @@ The backend provides a RESTful API for managing properties and users, while the 
 
 ## Technologies Used
 
-**Frontend**: React, Redux, Tailwind CSS
-**Backend**: Node.js, Express.js
-**Database**: MongoDB
-**Authentication**: JWT, Google OAuth
-**File Storage**: Firebase Storage
+- **Frontend**: React, Redux, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT, Google OAuth
+- **File Storage**: Firebase Storage
 
 ## Contributing
 
